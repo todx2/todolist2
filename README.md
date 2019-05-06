@@ -1,4 +1,4 @@
-# StalkYourFriends-Backend
+# StalkYou
 
 A Ruby on Rails 5.1 JSON API only backend server for StalkYourFriends Android client
 
