@@ -158,6 +158,7 @@ DEPENDENCIES
   capistrano-passenger (~> 0.2.0)
   capistrano-rails (~> 1.4)
   capistrano-rbenv (~> 2.1, >= 2.1.4)
+  concurrent-ruby (~> 1.0, >= 1.0.5)
   jbuilder (~> 2.5)
   pg (~> 0.18)
   puma (~> 3.7)
