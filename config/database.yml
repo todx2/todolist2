@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: stalkmyfriends-backend_production
+  database: todolist_production
   username: todolist
-  password: <%= ENV['STALKMYFRIENDS-BACKEND_DATABASE_PASSWORD'] %>
+password: <%= ENV['TODOLIST_DATABASE_PASSWORD'] %>
